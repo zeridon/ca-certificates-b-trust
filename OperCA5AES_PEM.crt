@@ -1,0 +1,150 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = BG, L = Sofia, O = BORICA - BANKSERVICE AD, OU = B-Trust, CN = B-Trust Root CA
+        Validity
+            Not Before: Aug 17 14:12:51 2010 GMT
+            Not After : Aug 17 14:12:51 2025 GMT
+        Subject: C = BG, ST = Sofia, L = Sofia, O = "BORICA - BANKSERVICE AD, EIK 201230426", OU = B-Trust, CN = B-Trust Operational CA AES, street = bul. Tsarigradsko shose No 117, postalCode = 1784, emailAddress = ca5aes@b-trust.org, telephoneNumber = "+359 2 9 215 100"
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (4096 bit)
+                Modulus:
+                    00:d4:c9:01:73:09:f4:cf:1e:56:5b:13:d3:e4:0a:
+                    e7:fa:f6:5e:78:02:35:80:01:1b:81:e9:ff:9a:a5:
+                    a5:4a:f8:81:ae:38:54:02:2f:c0:84:5f:a2:74:6f:
+                    3c:9e:67:cf:88:ef:07:7e:d1:c7:92:2e:14:f2:44:
+                    a5:c4:83:70:e1:fb:b8:02:68:10:8d:7e:01:1c:42:
+                    eb:d7:ce:0c:57:65:7c:00:19:05:d7:57:b3:60:fd:
+                    39:0a:e2:f8:67:1e:81:56:85:76:7b:7d:a4:90:ae:
+                    5c:d1:b5:2b:46:1b:cf:4a:f7:f5:12:34:e2:82:95:
+                    5e:c0:52:c6:7a:7a:99:76:60:5a:a9:14:f2:a0:70:
+                    c6:3f:cd:b1:f4:6c:e4:2a:f9:96:fc:88:77:bc:95:
+                    ce:e8:2c:ff:cf:87:0d:62:ea:d7:97:4a:6c:0b:73:
+                    1b:99:5d:7d:63:a0:37:30:13:e0:5c:0b:07:2c:70:
+                    93:2a:e5:d5:53:e6:aa:e6:0a:0c:25:c1:f7:2c:dd:
+                    59:b7:2c:50:27:e4:1a:ae:d8:66:93:45:6f:0d:ae:
+                    33:5a:c4:31:87:7b:d3:89:28:e6:7d:a5:3f:68:7d:
+                    52:a7:48:11:50:51:12:a4:45:91:60:f2:32:d2:d8:
+                    c3:d6:9a:e7:a3:44:41:b6:ee:fd:62:b4:49:03:f8:
+                    31:ef:61:7e:53:32:e1:b6:49:0b:bd:18:03:cf:ac:
+                    4b:3a:dd:80:5a:40:b5:b7:f6:75:bd:70:76:06:24:
+                    5d:fd:41:d4:ca:bd:95:40:eb:3c:48:f6:8a:03:17:
+                    64:9f:3e:33:fc:b5:24:a8:64:54:fa:70:20:46:f9:
+                    5b:f5:b1:f4:8b:9d:53:55:18:7e:a7:b9:29:6b:c7:
+                    1c:6d:e7:b9:f0:86:cf:48:fc:84:6a:88:7b:78:b5:
+                    eb:71:1d:5c:6f:0c:63:c8:a2:46:c0:e2:74:d5:db:
+                    26:d7:30:f8:b7:b3:cd:37:de:8d:35:b6:aa:d4:da:
+                    a7:02:45:9d:2d:2d:5e:4c:f7:07:ca:92:6f:dd:58:
+                    0c:1d:33:69:e0:f8:e6:92:aa:36:7b:33:af:d1:c0:
+                    64:f3:e6:04:f3:0e:46:14:c4:b7:82:dd:cd:67:d6:
+                    ce:de:64:a8:55:93:a3:6c:c8:74:ae:fb:b0:f7:6e:
+                    f6:c0:f7:eb:6f:07:88:36:8b:79:69:a0:b3:dc:a4:
+                    d8:a8:64:26:ff:f3:7a:bb:eb:06:87:2d:00:13:97:
+                    29:03:92:3e:7a:a0:f7:ab:ec:78:06:e4:da:96:16:
+                    76:ab:6d:13:b2:81:49:c5:73:47:64:a3:65:d6:75:
+                    90:ae:5f:3f:ab:4f:8b:80:3d:18:6b:8a:37:bb:d9:
+                    47:0e:b9
+                Exponent: 34411 (0x866b)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6E:12:CC:75:6B:77:69:1C:FA:3E:02:BE:F4:3F:B1:C2:16:54:16:37
+            X509v3 Authority Key Identifier: 
+                keyid:9B:A6:48:3A:23:1F:3A:A9:A8:88:28:57:64:ED:04:96:1C:30:C8:9D
+                DirName:/C=BG/L=Sofia/O=BORICA - BANKSERVICE AD/OU=B-Trust/CN=B-Trust Root CA
+                serial:01
+
+            X509v3 Issuer Alternative Name: 
+                URI:http://www.b-trust.org
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:3
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: http://www.b-trust.org
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.b-trust.org/repository/ca5root/crl/b-trust_ca5_root.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.b-trust.org
+
+    Signature Algorithm: sha1WithRSAEncryption
+         59:f8:66:48:a7:8e:e0:c6:3f:4b:95:40:cd:33:65:7c:b2:17:
+         75:86:bc:80:ce:84:dd:bd:b8:e4:ca:a7:7b:9c:aa:7b:26:dd:
+         76:e8:6f:89:d6:dd:92:54:14:b4:8a:c6:24:ff:1c:e2:2b:3c:
+         b9:f7:5a:21:ec:73:03:84:30:8d:23:83:be:60:a5:fb:4f:dd:
+         d0:70:61:33:ed:60:9a:79:fc:be:cb:af:64:9f:51:a4:e7:98:
+         c3:87:44:61:b6:b0:78:8d:51:c4:16:36:e8:e8:94:c0:28:2c:
+         b9:91:fe:b4:17:30:78:30:f1:47:50:af:d0:e3:71:d7:86:15:
+         40:82:fa:b8:d4:c0:07:11:33:e6:89:14:9a:75:cf:f5:e7:56:
+         c0:8c:4d:37:99:86:ef:2d:cb:e9:ef:49:f3:bc:9e:e5:ec:8b:
+         32:9c:64:34:c0:b8:40:bd:db:40:82:6d:71:ec:fa:5c:6d:da:
+         a3:af:b4:04:7a:57:e3:53:de:d1:5d:7c:f4:97:e6:11:20:8c:
+         1f:71:e0:8a:88:e5:36:ca:8b:b9:32:c6:e1:a2:76:19:fe:0b:
+         47:ff:12:fd:88:3e:ed:11:0a:f7:d4:5b:7e:db:2c:17:5a:3e:
+         63:88:cb:4f:62:9d:ef:61:bb:08:a1:99:ba:d8:d1:c0:b3:4d:
+         70:b8:96:2f:29:ba:18:f6:1d:2a:18:05:37:06:fd:e4:0e:a6:
+         c5:67:a7:c4:b8:ed:22:4a:a1:8a:d7:e7:33:43:c3:1d:fb:38:
+         6a:99:c4:ef:3a:66:5a:75:9b:7a:7c:46:55:5a:dc:bc:54:68:
+         7e:05:c2:5d:46:50:95:b5:84:d6:f4:31:6b:0e:c0:bd:c4:c9:
+         3f:5f:ef:b9:b3:da:45:6d:9d:7b:ec:62:62:d1:e9:99:db:6d:
+         d3:37:fa:8b:33:9f:c9:9e:9e:63:3a:5a:32:4f:c2:c0:5d:dc:
+         a7:e9:89:2c:bf:1b:54:8c:42:ac:a4:d4:50:5b:07:21:38:a8:
+         18:48:8d:c3:17:03:b2:4e:ca:41:a3:2e:1c:54:76:2a:fc:f5:
+         a0:e9:53:e3:5c:2a:2f:20:71:8a:cb:47:b5:ad:60:19:54:6c:
+         e7:a3:ba:d1:65:d1:ca:f6:b5:56:f5:92:cf:0b:85:23:62:10:
+         9e:3f:27:4e:aa:70:55:52:15:29:e6:ba:f8:e6:e1:73:32:f0:
+         e3:ae:3b:a3:4c:48:d7:f1:bd:12:90:fe:19:0b:7d:b7:ee:8e:
+         08:16:5b:3c:40:a6:42:06:29:c6:fc:65:a1:26:ef:07:90:d6:
+         46:dc:0b:e2:3d:72:94:99:f2:74:d7:8f:4a:8f:bf:48:93:fc:
+         52:48:31:30:7b:10:83:05
+-----BEGIN CERTIFICATE-----
+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
+So+/SJP8UkgxMHsQgwU=
+-----END CERTIFICATE-----

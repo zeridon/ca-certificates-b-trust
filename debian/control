@@ -1,0 +1,19 @@
+Source: ca-certificates-b-trust
+Section: misc
+Priority: optional
+Maintainer: Vladimir Vitkov <vvitkov@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: https://zeridon.github.io/ca-certificates-b-trust/
+Vcs-Browser: https://github.com/zeridon/ca-certificates-b-trust
+Vcs-Git: https://github.com/zeridon/ca-certificates-b-trust.git
+
+Package: ca-certificates-b-trust
+Architecture: all
+Depends: ${misc:Depends}, ca-certificates (>= 20160104)
+Description: B-Trust root certificates
+ This package provides B-Trust (sub-)root certificates in PEM format.
+ Root certificates allow SSL-based applications to check for the
+ authenticity of certificates issued by the B-Trust authority.
+ .
+ B-Trust is a Bulgarian official eID issuer with full eIDAS compliance.
