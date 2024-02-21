@@ -30,4 +30,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: ca-certificates-b-trust.deb
-          path: **/*.deb
+          path: ${{ github.workspace }}/**/*.deb
