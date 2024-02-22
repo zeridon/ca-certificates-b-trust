@@ -4,3 +4,5 @@
 This package provides [B-Trust](https://www.b-trust.bg/en) (sub-)root certificates in PEM format. Root certificates allow SSL-based applications to check for the authenticity of certificates issued by the B-Trust authority.
 
 [B-Trust](https://www.b-trust.bg/en) is a Bulgarian official eID issuer with full eIDAS compliance.
+
+Precompiled debian style packages can be found on the [Latest Release Page](https://github.com/zeridon/ca-certificates-b-trust/releases/latest)

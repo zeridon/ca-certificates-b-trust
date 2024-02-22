@@ -1,3 +1,9 @@
+ca-certificates-b-trust (20240222) unstable; urgency=medium
+
+  * update build tooling
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Thu, 22 Feb 2024 14:17:51 +0200
+
 ca-certificates-b-trust (20210714) unstable; urgency=medium
 
   * Initial Release
